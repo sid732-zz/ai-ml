@@ -16,3 +16,13 @@ for i in range(n):
     lst.append(numbers)
 
 print("sum is: ",sum(lst))
+
+'''
+#old program
+a=int(input("enter first integer: "))
+b=int(input("enter second number: "))
+
+c=a+b
+
+print("addition of two number is: ", c)
+'''
